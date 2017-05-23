@@ -3,7 +3,7 @@ A photoionization and mass spectrum data workup library with error propogation s
 
 ## Description
 
-This library is an updated version of my pypie library which is made more efficient with the use of numpy and includes functions to propogate error when averaging over several scans.
+This library is an updated version of my [pypie](https://github.com/tylertroy/pypie) library which has been made more efficient with the use of numpy and includes a new `uPypie` class to support error propagation when averaging over several scans.
 
 See [tylertroy/pypie](https://github.com/tylertroy/pypie) for a full description of usage. 
 
