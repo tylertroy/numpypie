@@ -1,5 +1,5 @@
-# pypie 
-a photoionization and mass spectrum data workup library with error propogation support.
+# numpypie 
+A photoionization and mass spectrum data workup library with error propogation support.
 
 ## Description
 
